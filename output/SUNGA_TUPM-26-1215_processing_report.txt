@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: SUNGA
+Student ID: TUPM-26-1215
+Seed Digit: 5
+ID Sum: 17
+Verification Value: 90
+Dataset Sample Size: 67
+Valid Records: 67
+Average Global Active Power: 4.079
+JSON File: SUNGA_TUPM-26-1215_record.json
+Backup File: SUNGA_TUPM-26-1215_record.csv
